@@ -12,9 +12,9 @@ git checkout "FileName.doc"
 
 
 --adicionar um novo arquivo que nao existe ainda no repositorio
-git add
+git add "NomeDoArquivo.doc -m"
 
 
 --
-git commit
+git commit -m "Detalhes da alteração do arquivo."
 
