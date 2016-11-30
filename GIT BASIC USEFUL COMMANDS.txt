@@ -1,0 +1,6 @@
+GIT status
+
+GIT pull origin
+
+
+? stash ? descartar alterações locais ? (descartar o merge)
