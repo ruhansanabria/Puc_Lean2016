@@ -1,0 +1,20 @@
+GIT status
+
+--baixar atualizações
+GIT pull origin
+
+
+? stash ? descartar alterações locais ? (descartar o merge)
+
+
+--descartar alterações de um arquivo específico
+git checkout "FileName.doc"
+
+
+--adicionar um novo arquivo que nao existe ainda no repositorio
+git add "NomeDoArquivo.doc -m"
+
+
+--
+git commit -m "Detalhes da alteração do arquivo."
+
