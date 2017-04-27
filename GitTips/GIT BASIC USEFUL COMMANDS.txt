@@ -24,3 +24,7 @@ git add "NomeDoArquivo.doc -m"
 --
 git commit -m "Detalhes da alteração do arquivo."
 
+
+--
+git reset --hard 6228f1e82a
+(alterar sempre o codigo acima para o seu codigo do Branch que voce deseja retornar)
